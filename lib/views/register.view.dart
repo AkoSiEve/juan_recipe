@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
@@ -108,6 +109,16 @@ class _RegisterViewState extends State<RegisterView> {
     }
     print("sucess sya");
     registerSuccess();
+    clearLoginFormText();
+    Timer(const Duration(milliseconds: 3000), () => Get.back());
+  }
+
+  void clearLoginFormText() {
+    firstNameControllerSignup.clear();
+    lastNameControllerSignup.clear();
+    emailControllerSignup.clear();
+    passwordControllerSignup.clear();
+    cpasswordControllerSignup.clear();
   }
 
   @override

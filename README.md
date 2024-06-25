@@ -1,7 +1,6 @@
 # juan_recipe
 
-A new Flutter project.
-
+https://github.com/AkoSiEve/juan_recipe/assets/81839201/057f79b9-5728-4051-b8a4-1bb7c6c53fc2
 ## Getting Started
 
 This project is a starting point for a Flutter application.

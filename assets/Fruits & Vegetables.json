@@ -1,0 +1,56 @@
+[
+    {
+        "categoryName":"Fruits & Vegetables",
+         "categoryName-href":"https://www.kawalingpinoy.com/category/recipe-index/fruits-and-vegetables/",
+         "link":"Grilled Shrimp Mango Avocado Salad",
+         "link-ref":"https://www.kawalingpinoy.com/grilled-shrimp-mango-and-avocado-salad/",
+         "recipeDescription":"Grilled Shrimp Mango Avocado Salad is a refreshing medley of flavors you'd love as a side dish or a light lunch. Chock-full of grilled shrimps, juicy mangoes, creamy avocados, and crisp cucumbers with a tangy honey lime dressing, it's healthy and delicious.",
+         "recipeImage-href":"https://www.kawalingpinoy.com/wp-content/uploads/2017/06/grilled-shrimp-avocado-mango-salad-1-680x680.jpg",
+         "recipePrepTime":"Prep Time: 15 minutes mins",
+         "recipeCookTime":"Cook Time: 5 minutes mins",
+         "recipeTotalTIme":"Total Time: 20 minutes mins",
+         "recipeAuthor":"Lalaine Manalo",
+         "recipeIngredients":[
+            "1 pound large shrimp, peeled and deveined",
+            "1 teaspoon salt",
+            "½ teaspoon garlic powder",
+            "¼ teaspoon pepper",
+            "2 large mangoes, peeled, pitted and cut into 1-inch cubes",
+            "2 large avocados, peeled, pitted and cut into-inch cubes",
+            "4 Persian cucumbers, halved lengthwise and cut into 1-inch cubes",
+            "½ small red onion, peeled and sliced thinly",
+            "¼ cup freshly-squeezed lime juice",
+            "2 tablespoons honey",
+            "1 tablespoon olive oil",
+            "salt and pepper to taste " 
+
+         ],
+         "recipeInstruction":[
+            "In a bowl, combine shrimp, salt, garlic powder, and pepper. Marinate for about 8 to 10 minutes.",
+            "Over high heat. heat a lightly greased grill pan until very hot. Add shrimp in a single layer and cook for about 2 to 3 minutes until color begins to change to pink. Turn and cook for another 2 to 3 minutes.",
+            "Remove from pan, cover, and chill in the refrigerator until completely cooled.",
+            "Meanwhile, combine lime juice, honey, olive oil, and salt and pepper to taste. Stir well.",
+            "In a large bowl, combine grilled shrimp, mangoes, avocados, cucumbers, and red onions.",
+            "Drizzle honey-lime dressing and gently toss to combine."
+       ],
+         "recipeNutrition":[
+            "Calories: 405kcal",
+            "Carbohydrates: 34g",
+            "Protein: 26g",
+            "Fat: 20g",
+            "Saturated Fat: 2g",
+            "Cholesterol: 285mg",
+            "Sodium: 1473mg",
+            "Potassium: 836mg",
+            "Fiber: 8g",
+            "Sugar: 22g",
+            "Vitamin A: 1100IU",
+            "Vitamin C: 51.8mg",
+            "Calcium: 198mg",
+            "Iron: 3.3mg"
+
+         ],
+         "recipeVote":"5"
+    }
+
+]

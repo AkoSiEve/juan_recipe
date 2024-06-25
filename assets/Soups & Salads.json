@@ -1,0 +1,45 @@
+[
+    {
+        "categoryName":"Soups & Salads",
+         "categoryName-href":"https://www.kawalingpinoy.com/category/recipe-index/soups-and-salads/",
+         "link":"Sinabawang Tahong",
+         "link-ref":"https://www.kawalingpinoy.com/sinabawang-tahong/",
+         "recipeDescription":"Tinolang tahong is a tasty mussel soup with ginger and spinach. It's quick and easy to make and so light and refreshing.",
+         "recipeImage-href":"https://www.kawalingpinoy.com/wp-content/uploads/2013/11/sinabawang-tahong-2-680x680.jpg",
+         "recipePrepTime":"Prep Time: 10 minutes mins",
+         "recipeCookTime":"Cook Time: 15 minutes mins",
+         "recipeTotalTIme":"Total Time: 25 minutes mins",
+         "recipeAuthor":"Lalaine Manalo",
+         "recipeIngredients":[
+            "1 tablespoon oil",
+            "1 onion, peeled and sliced thinly",
+            "2 cloves garlic, peeled and minced",
+            "1 thumb size ginger, peeled and julienned",
+            "1 large tomato, chopped",
+            "2 tablespoons fish sauce",
+            "4 cups water",
+            "2 pounds half-shell frozen mussels, thawed",
+            "salt and pepper",
+            "1 bunch fresh spinach, stems trimmed"
+
+
+         ],
+         "recipeInstruction":[
+           
+            "In a pot over medium heat, heat oil. Add onions, garlic, and ginger and cook until softened.",
+            "Add tomatoes and cook, mashing tomatoes with the back of the spoon, until softened and release juices.",
+            "Add fish sauce and cook for about 30 to 40 seconds.",
+            "Add water and bring to a boil. Add mussels and cook, skimming scum that floats on top, for about 3 to 5 minutes.",
+            "Season with salt and pepper to taste.",
+            "Add spinach. Turn off and allow spinach to cook in residual steam. Serve hot."
+
+      
+       ],
+         "recipeNutrition":[
+            ""
+
+         ],
+         "recipeVote":"5"
+    }
+
+]

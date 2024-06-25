@@ -1,0 +1,46 @@
+Juan for Foods
+Foods for Juan
+
+
+GET /categories HTTP/1.1
+X-Rapidapi-Key: f958a976a8mshbe3858adf70320dp1e0f12jsnc8f5013814c9
+X-Rapidapi-Host: all-in-one-recipe-api.p.rapidapi.com
+Host: all-in-one-recipe-api.p.rapidapi.com
+
+====================================
+
+GET search/adobo
+id:317
+name: port Adobo Recipe
+
+==========================================
+
+GET details/317
+{
+    "version": "v1.0",
+    "recipe": {
+        "id": "317",
+        "data": {
+            "Name": "Pork Adobo Recipe",
+            "Description": "Basic Filipino Prok Adobo with Soy Sauce, Vinegar, and Garlic. This delicious dish is perfect when served over newly cooked white rice.",
+            "Time": ["Prep: 10 minutes minutesCook: 1 hour hourTotal: 1 hour hour 10 minutes minutes", "Prep: 10 minutes minutes", "Cook: 1 hour hour", "Total: 1 hour hour 10 minutes minutes"],
+            "Ingredients": ["2 lbs pork belly", "2 tablespoons garlic", "5  dried bay leaves", "4 tablespoons vinegar", "1/2 cup soy sauce", "1 tablespoon peppercorn", "2 cups water", "  Salt to taste"],
+            "Directions": ["Combine the pork belly, soy sauce, and garlic then marinade for at least 1 hour", "Heat the pot and put-in the marinated pork belly then cook for a few minutes", "Pour remaining marinade including garlic.", "Add water, whole pepper corn, and dried bay leaves then bring to a boil. Simmer for 40 minutes to 1 hour", "Put-in the vinegar and simmer for 12 to 15 minutes", "Add salt to taste", "Serve hot. Share and enjoy!"],
+            "Nutritions": ["Serving: 4g", "Calories: 1211kcal (61%)", "Carbohydrates: 5g (2%)", "Protein: 24g (48%)", "Fat: 120g (185%)", "Saturated Fat: 43g (215%)", "Cholesterol: 163mg (54%)", "Sodium: 1700mg (71%)", "Potassium: 530mg (15%)", "Fiber: 1g (4%)", "Vitamin A: 115IU (2%)", "Vitamin C: 2.5mg (3%)", "Calcium: 50mg (5%)", "Iron: 2.7mg (15%)"],
+            "Rating": "",
+            "Category": "Pork",
+            "Cuisine": "filipino",
+            "Servings": "4"
+        }
+    }
+}
+
+
+===========================================
+GET /categories
+{
+    "version": "v1.0",
+    "categories": {
+        "data": ["Chicken", "Pork", "Dessert", "Beef", "Vegetable", "Fish", "Noodles", "Pasta", "Ingedients", "15 Minute Meals", "Asian Takeout", "Australia Day!", "BBQ Recipes", "Curries", "Easter", "French Toast Recipes", "Meatballs", "Pork Carnitas", "Quick Dinner Recipes", "Roasts", "Sunday Supper", "Super Bowl Munchies", "Winter Warmers", "seafood", "chicken", "beef", "appetizers", "side-dishes", "salads", "desserts", "drinks", "rice", "curry", "vegetarian", "cranberry", "samosas", "bread", "indonesian", "israeli", "pork", "turkey", "chicken-cacciatore", "chicken-marsala", "chicken-parmesan", "chicken-piccata", "pesto-chicken", "vegetarian-lasagna", "chicken-lasagna", "eggplant-lasagna", "spinach-lasagna", "zucchini-lasagna", "meat-lasagna", "authentic", "soups-and-stews", "biscotti", "tiramisu", "garlic-bread", "bruschetta", "caprese-salad", "calzones", "baked", "meat-sauce", "marinara", "pepperoni", "pizza-dough-and-crusts", "breakfast-pizza", "pizza", "pizza-sauce", "jamaican", "sushi", "fish", "dairy", "parve", "meats", "chicken-salad", "brisket", "doughnuts", "kugel", "latkes", "cookies", "main-dishes", "everyday-meals", "purim", "rosh-hashanah", "kalbi", "bulgogi", "lebanese", "malaysian", "norwegian", "pakistani", "persian", "peruvian", "pierogies", "portuguese", "puerto-rican", "russian", "swedish", "danish", "finnish", "soul-food", "south-african", "red-velvet-cake", "banana-pudding", "pecan-pie", "sweet-potato-pie", "chess-pie", "pralines", "catfish", "fried-chicken", "chicken-and-dumplings", "brunswick-stew", "gumbo", "jambalaya", "collard-greens", "fried-green-tomatoes", "okra", "bourbon-drinks", "hurricanes", "iced", "whiskey-drinks", "cinnamon-rolls", "danishes", "sticky-buns", "monkey-bread", "kolache", "biscuits", "banana-nut-bread", "chocolate-banana-bread", "banana-cake", "banana-muffins", "zucchini-muffins", "whole-wheat-muffins", "cranberry-muffins", "blueberry-muffins", "bran-muffins", "chocolate-muffins", "apple-muffins", "corn-muffins", "poppy-seed-muffins", "pumpkin-muffins", "carrot-muffins", "savory-muffins", "pumpkin-bread", "scones", "bagels", "coffee-cake", "waffles", "strawberry", "banana", "orange", "blueberry", "mango", "green", "smoothie", "lattes", "mochas", "creamer", "drink-flavorings", "sausage-breakfast-casserole", "potato-breakfast-casserole", "ham-breakfast-casserole", "hash-brown-breakfast-casserole", "french-toast-casserole", "breakfast-strata", "quiche", "granola", "overnight-oats", "sweet", "savory", "blintz", "scrambled-eggs", "breakfast-burritos", "breakfast-sandwiches", "bacon", "ham", "baked-pancakes", "banana-pancakes", "whole-grain-pancakes", "buttermilk-pancakes", "caramel-sauce", "chocolate-sauce-and-hot-fudge", "dark-chocolate", "white-chocolate", "milk-chocolate", "chocolate-cheesecake", "chocolate-candy", "double-chocolate", "chocolate-pudding", "chocolate-mousse", "chocolate-ice-cream", "apple-crisps-and-crumbles", "rhubarb-crisps-and-crumbles", "cherry-crisps-and-crumbles", "hash-brown-potatoes", "potato-pancakes", "breakfast-cookies", "paella", "sangria", "swiss", "tex-mex", "pad-thai", "turkish", "amish-and-mennonite", "argentinian", "occasions", "austrian", "bangladeshi", "belgian", "brazilian", "etouffee", "new-orleans", "strawberry-shortcake", "strawberry-cobbler", "strawberry-pie", "strawberry-ice-cream", "lemonade", "blended-cocktails", "nachos", "spinach-and-artichoke", "crab-dip", "shrimp-dip", "hummus", "bean-dips", "fruit-dip", "artichoke-dip", "7-layer-dip", "hot-cheese-dips", "cold-cheese-dips", "cream-cheese-spreads", "cheese-balls", "baked-brie", "cheese-fondue", "buffalo-chicken-dip", "pumpkin-dip", "guacamole", "pate", "watermelon-salsa", "peach-salsa", "mango-salsa", "salsa-verde", "tomato-salsa", "corn-salsa", "avocado-salsa", "sliders", "chicken-chili", "beef-chili", "pork-chili", "chili-without-beans", "turkey-chili", "white-chili", "chili", "pulled-pork", "treats", "beer", "bloody-marys", "vancouver", "quebec", "allstars", "chilean", "shrimp", "stir-fry", "colombian", "cuban", "dutch", "pancit", "chicken-adobo", "french-bread", "pretzels", "german-potato-salad"]
+    }
+}

@@ -1,0 +1,55 @@
+
+# Recipe by cuisines
+GET https://all-in-one-recipe-api.p.rapidapi.com/cuisines/filipino
+X-Rapidapi-Key: f958a976a8mshbe3858adf70320dp1e0f12jsnc8f5013814c9
+X-Rapidapi-Host: all-in-one-recipe-api.p.rapidapi.com
+Host: all-in-one-recipe-api.p.rapidapi.com
+
+
+
+
+
+
+# categories
+GET https://all-in-one-recipe-api.p.rapidapi.com/categories
+X-Rapidapi-Key: f958a976a8mshbe3858adf70320dp1e0f12jsnc8f5013814c9
+X-Rapidapi-Host: all-in-one-recipe-api.p.rapidapi.com
+Host: all-in-one-recipe-api.p.rapidapi.com
+
+
+####
+# get recipe by category
+GET https://all-in-one-recipe-api.p.rapidapi.com/categories/pork
+X-Rapidapi-Key: f958a976a8mshbe3858adf70320dp1e0f12jsnc8f5013814c9
+X-Rapidapi-Host: all-in-one-recipe-api.p.rapidapi.com
+Host: all-in-one-recipe-api.p.rapidapi.com
+# {
+#         "id": 317,
+#         "name": "Igado Recipe"
+#       },
+# {
+#         "id": 319,
+#         "name": "Pork Adobo Recipe"
+#       },
+
+####
+# get recipe detail by ID
+GET https://all-in-one-recipe-api.p.rapidapi.com/details/317
+X-Rapidapi-Key: f958a976a8mshbe3858adf70320dp1e0f12jsnc8f5013814c9
+X-Rapidapi-Host: all-in-one-recipe-api.p.rapidapi.com
+Host: all-in-one-recipe-api.p.rapidapi.com
+
+
+#######
+GET https://yummly2.p.rapidapi.com/feeds/list
+X-Rapidapi-Key: ab01c239f4msh68c4f22a63d8962p11f0c1jsn2a74aa59265d
+X-Rapidapi-Host: yummly2.p.rapidapi.com
+useQueryString: true
+Host: yummly2.p.rapidapi.com
+
+####
+# get recipe detail
+GET https://all-in-one-recipe-api.p.rapidapi.com/recommendations/10230
+X-Rapidapi-Key: f958a976a8mshbe3858adf70320dp1e0f12jsnc8f5013814c9
+X-Rapidapi-Host: all-in-one-recipe-api.p.rapidapi.com
+Host: all-in-one-recipe-api.p.rapidapi.com

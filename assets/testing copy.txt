@@ -1,0 +1,110 @@
+// {
+//     "categoryName":"Rice & Noodles",
+//     "categoryName-href":"https://www.kawalingpinoy.com/category/recipe-index/rice-potatoes-and-noodles/",
+//     "link":"Turon Malagkit",
+//     "link-ref":"https://www.kawalingpinoy.com/turon-malagkit/",
+//     "recipeDescription":"Turon Malagkit filled with sticky rice and jackfruit, coated with sugar, and fried until golden and caramelized. These Filipino spring rolls are filling, delicious and perfect as snack or dessert.",
+//     "recipeImage-href":"https://www.kawalingpinoy.com/wp-content/uploads/2019/06/turon-malagkit-15-680x680.jpg",
+//     "recipePrepTime":"Prep Time: 20 minutes mins",
+//     "recipeCookTime":"Cook Time: 30 minutes mins",
+//     "recipeTotalTIme":"",
+//     "recipeAuthor":"Lalaine Manalo",
+//     "recipeIngredients":[
+//         "2 cups glutinous rice",
+//         "2 ½ cups coconut milk",
+//         "½ teaspoon salt",
+//         "1 pandan leaf, knotted (optional)",
+//         "24 spring roll wrappers",
+//         "1 cup sweetened jackfruit strips",
+//         "1 cup sugar",
+//         "canola oil"
+//     ],
+//     "recipeInstruction":[
+//         "In a bowl, rinse glutinous rice 2 to 3 times or until water runs clear. Drain well using a fine-mesh sieve.",
+//         "In the rice cooker insert, combine rice, coconut milk, and salt. Stir to distribute. Place pandan leaf in the rice, if using.",
+//         "Cook in the rice cooker. When the rice cooker beeps, allow to stand, covered, for about 5 minutes.",
+//         "Remove pandan leaf from the cooked rice and discard.  With a fork, gently fluff rice to separate grains and allow to cool completely.",
+//         "Separate wrappers into individual sheets. On a flat working surface, lay the wrapper like a diamond.",
+//         "Spoon about 2 tablespoons of cooked sticky rice in the middle of the wrapper and top with 2 to 3 jackfruit strips.",
+//         "Fold the bottom pointed end of the wrapper over the filling. Fold the side ends of the sheet inward and roll tightly into a log. Wet the pointed edge of the wrapper with a dab of water to completely seal. Repeat with the remaining rice mixture",
+//         "In a shallow plate, roll turon in sugar to fully coat.",
+//         "In a skillet over medium heat, heat about 2 inches deep of oil. Add spring rolls seam side down and fry, turning once or twice, for about 2 to 3 minutes on each side or until golden brown and sugar is caramelized.",
+//         "Using tongs, remove turon from the pan and drain on a wire rack set over a baking sheet.  Serve immediately."
+//     ],
+//     "recipeNutrition":[
+//         "Calories: 218kcal",
+//         "Carbohydrates: 34g",
+//         "Protein: 3g",
+//         "Fat: 8g",
+//         "Saturated Fat: 5g",
+//         "Sodium: 162mg",
+//         "Potassium: 86mg",
+//         "Fiber: 1g",
+//         "Sugar: 8g",
+//         "Vitamin A: 5IU",
+//         "Vitamin C: 0.2mg",
+//         "Calcium: 18mg",
+//         "Iron: 1.7mg"
+//     ],
+//     "recipeVote":"4"
+// }
+
+{
+    "filipinoRecipe":"v1.1",
+    "authorAPi":"Jerome",
+    "data":[
+        {
+            "Rice & Noodles":[
+            {
+                "categoryName":"Rice & Noodles",
+                 "categoryName-href":"https://www.kawalingpinoy.com/category/recipe-index/rice-potatoes-and-noodles/",
+                 "link":"Turon Malagkit",
+                 "link-ref":"https://www.kawalingpinoy.com/turon-malagkit/",
+                 "recipeDescription":"Turon Malagkit filled with sticky rice and jackfruit, coated with sugar, and fried until golden and caramelized. These Filipino spring rolls are filling, delicious and perfect as snack or dessert.",
+                 "recipeImage-href":"https://www.kawalingpinoy.com/wp-content/uploads/2019/06/turon-malagkit-15-680x680.jpg",
+                 "recipePrepTime":"Prep Time: 20 minutes mins",
+                 "recipeCookTime":"Cook Time: 30 minutes mins",
+                 "recipeTotalTIme":"",
+                 "recipeAuthor":"Lalaine Manalo",
+                 "recipeIngredients":[
+                     "2 cups glutinous rice",
+                     "2 ½ cups coconut milk",
+                     "½ teaspoon salt",
+                     "1 pandan leaf, knotted (optional)",
+                     "24 spring roll wrappers",
+                     "1 cup sweetened jackfruit strips",
+                     "1 cup sugar",
+                     "canola oil"
+                 ],
+                 "recipeInstruction":[
+                     "In a bowl, rinse glutinous rice 2 to 3 times or until water runs clear. Drain well using a fine-mesh sieve.",
+                     "In the rice cooker insert, combine rice, coconut milk, and salt. Stir to distribute. Place pandan leaf in the rice, if using.",
+                     "Cook in the rice cooker. When the rice cooker beeps, allow to stand, covered, for about 5 minutes.",
+                     "Remove pandan leaf from the cooked rice and discard.  With a fork, gently fluff rice to separate grains and allow to cool completely.",
+                     "Separate wrappers into individual sheets. On a flat working surface, lay the wrapper like a diamond.",
+                     "Spoon about 2 tablespoons of cooked sticky rice in the middle of the wrapper and top with 2 to 3 jackfruit strips.",
+                     "Fold the bottom pointed end of the wrapper over the filling. Fold the side ends of the sheet inward and roll tightly into a log. Wet the pointed edge of the wrapper with a dab of water to completely seal. Repeat with the remaining rice mixture",
+                     "In a shallow plate, roll turon in sugar to fully coat.",
+                     "In a skillet over medium heat, heat about 2 inches deep of oil. Add spring rolls seam side down and fry, turning once or twice, for about 2 to 3 minutes on each side or until golden brown and sugar is caramelized.",
+                     "Using tongs, remove turon from the pan and drain on a wire rack set over a baking sheet.  Serve immediately."
+                 ],
+                 "recipeNutrition":[
+                     "Calories: 218kcal",
+                     "Carbohydrates: 34g",
+                     "Protein: 3g",
+                     "Fat: 8g",
+                     "Saturated Fat: 5g",
+                     "Sodium: 162mg",
+                     "Potassium: 86mg",
+                     "Fiber: 1g",
+                     "Sugar: 8g",
+                     "Vitamin A: 5IU",
+                     "Vitamin C: 0.2mg",
+                     "Calcium: 18mg",
+                     "Iron: 1.7mg"
+                 ],
+                 "recipeVote":"4"
+            }
+        ]}
+    ]
+}
